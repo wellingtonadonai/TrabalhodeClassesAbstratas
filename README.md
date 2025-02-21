@@ -1,7 +1,3 @@
-Aqui está um modelo de README simplificado para seu projeto:
-
----
-
 # Projeto: Classe Abstrata - Java
 
 Este é um projeto simples desenvolvido em Java para exemplificar o uso de classes abstratas e herança. O projeto possui duas classes concretas: `PessoaFisica` e `PessoaJuridica`, ambas herdam de uma classe abstrata chamada `Pessoa`. O programa imprime informações básicas de diferentes tipos de pessoas.
